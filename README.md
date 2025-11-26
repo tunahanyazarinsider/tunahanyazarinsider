@@ -25,19 +25,3 @@ I am passionate about:
 <br/>
 </div>
 
-### Projects 
-
-<div align="center">
-
-<a href="https://github.com/tunahanyazarinsider/MAHIKS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tunahanyazarinsider&repo=MAHIKS&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/tunahanyazarinsider/portfolio_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tunahanyazarinsider&repo=portfolio_app&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
