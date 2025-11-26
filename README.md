@@ -1,7 +1,4 @@
 <div>
-
-  <img src="https://media.giphy.com/media/fX5cZemSfX1cMZYuUJ/giphy.gif" width="200" />
-
   <h1>Hi, I'm Tunahan!</h1>
 
   <p>
