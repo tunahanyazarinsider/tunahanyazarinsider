@@ -23,6 +23,7 @@ I am passionate about:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanyazarinsider&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
+</div>
 
 ### Projects 
 
@@ -40,4 +41,3 @@ I am passionate about:
 
 </div>
 
-</div>
