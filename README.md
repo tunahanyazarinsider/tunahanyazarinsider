@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
   <img src="https://media.giphy.com/media/fX5cZemSfX1cMZYuUJ/giphy.gif" width="200" />
 
@@ -15,8 +15,6 @@
 - **Machine Learning and Math**
 - **Problem Solving & LeetCode**
 - **Cloud & DevOps**
-
----
 
 ### Some useful links about me:
 - **LeetCode:** [tunahanyazar0](https://leetcode.com/u/tunahanyazar0/)
