@@ -2,7 +2,7 @@
   <h1>Hi, I'm Tunahan!</h1>
 
   <p>
-    I'm machine learning engineer at Insider One. I
+    I'm machine learning engineer at Insider One. 
   </p>
 
 </div>
