@@ -2,8 +2,7 @@
   <h1>Hi, I'm Tunahan!</h1>
 
   <p>
-    I am a final-year student at <b>Sabancı University</b>, <br>
-    pursuing a double major in <b>Computer Science</b> and <b>Mathematics. I'm also; ML intern in Insider.
+    I'm machine learning engineer at Insider One. I
   </p>
 
 </div>
